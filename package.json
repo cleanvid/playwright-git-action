@@ -1,0 +1,21 @@
+{
+  "name": "playwright-git-action",
+  "version": "1.0.0",
+  "description": "\"# playwright-git-action\"",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleanvid/playwright-git-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleanvid/playwright-git-action/issues"
+  },
+  "homepage": "https://github.com/cleanvid/playwright-git-action#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
